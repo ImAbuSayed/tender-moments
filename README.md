@@ -15,7 +15,7 @@
 | **Written On** | May 28, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/tender-moments/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Tender Moments](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tender-moments/) |
+| **Get License** | [Get License For Tender Moments](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tender-moments/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Shadows dancing on the hardwood floor
+> I pull you closer than I ever did before
+> Lost inside the rhythm of your midnight sigh
+> There’s a fire burning in your steady eye
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
